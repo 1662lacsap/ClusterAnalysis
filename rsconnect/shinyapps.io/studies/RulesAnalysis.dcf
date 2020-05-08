@@ -1,0 +1,13 @@
+name: RulesAnalysis
+title: RulesAnalysis
+username:
+account: studies
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1891205
+bundleId: 2873279
+url: https://studies.shinyapps.io/RulesAnalysis/
+when: 1583968967.78705
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: clustersCOF.rds|clustersKMEANS.rds|clustersLOF.rds
